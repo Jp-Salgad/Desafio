@@ -13,7 +13,7 @@ public class desafio {
 		
 		System.out.println("  1 2 3 4 5 6 7 8 ");
 		System.out.println("  -----------------");
-        System.out.println("1| - - - - - - - - ");
+                System.out.println("1| - - - - - - - - ");
 		System.out.println("2| - - - - - - - - ");
 		System.out.println("3| - - - - - - - - ");
 		System.out.println("4| - - - - - - - - ");
@@ -22,8 +22,8 @@ public class desafio {
 		System.out.println("7| - - - - - - - - ");
 		System.out.println("8| - - - - - - - - ");
 		
-		System.out.println("Digite a casa que você queira posicionar a torre.");
-		System.out.println("O primeiro número é a Linha, o segundo é a Coluna.");
+		System.out.println("Digite a casa que vocÄ™ queira posicionar a torre.");
+		System.out.println("O primeiro nÃºmero Ã© a Linha, o segundo Ã© a Coluna.");
 		System.out.println("Exemplo: 12 = 1 = Linha e 2 = coluna.");
 
 		cc=leitor.nextInt();
@@ -45,7 +45,7 @@ public class desafio {
 		case 12:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x T x x x x x x ");
+                        System.out.println("1| x T x x x x x x ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -58,7 +58,7 @@ public class desafio {
 		case 13:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("   ----------------");
-            System.out.println("1| x x T x x x x x ");
+                        System.out.println("1| x x T x x x x x ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -71,7 +71,7 @@ public class desafio {
 		case 14:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x x x T x x x x ");
+                        System.out.println("1| x x x T x x x x ");
 			System.out.println("2| - - - x - - - - ");
 			System.out.println("3| - - - x - - - - ");
 			System.out.println("4| - - - x - - - - ");
@@ -84,7 +84,7 @@ public class desafio {
 		case 15:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x x x x T x x x ");
+                        System.out.println("1| x x x x T x x x ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -97,7 +97,7 @@ public class desafio {
 		case 16:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x x x x x T x x ");
+                        System.out.println("1| x x x x x T x x ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -110,7 +110,7 @@ public class desafio {
 		case 17:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x x x x x x T x ");
+                        System.out.println("1| x x x x x x T x ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -123,7 +123,7 @@ public class desafio {
 		case 18:
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x x x x x x x T ");
+                        System.out.println("1| x x x x x x x T ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -137,7 +137,7 @@ public class desafio {
 		case 21:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| T x x x x x x x ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| x - - - - - - - ");
@@ -150,7 +150,7 @@ public class desafio {
 		case 22:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| x T x x x x x x ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -164,7 +164,7 @@ public class desafio {
 		case 23:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| x x T x x x x x ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -178,7 +178,7 @@ public class desafio {
 		case 24:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - x - - - - ");
+                        System.out.println("1| - - - x - - - - ");
 			System.out.println("2| x x x T x x x x ");
 			System.out.println("3| - - - x - - - - ");
 			System.out.println("4| - - - x - - - - ");
@@ -192,7 +192,7 @@ public class desafio {
 		case 25:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| x x x x T x x x ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -206,7 +206,7 @@ public class desafio {
 		case 26:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| x x x x x T x x ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -220,7 +220,7 @@ public class desafio {
 		case 27:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| x x x x x x T x ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -234,7 +234,7 @@ public class desafio {
 		case 28:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                         System.out.println("1| - - - - - - - x ");
 			System.out.println("2| x x x x x x x T ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -248,7 +248,7 @@ public class desafio {
 		case 31:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| T x x x x x x x ");
 			System.out.println("4| x - - - - - - - ");
@@ -261,7 +261,7 @@ public class desafio {
 		case 32:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| x T x x x x x x ");
 			System.out.println("4| - x - - - - - - ");
@@ -274,7 +274,7 @@ public class desafio {
 		case 33:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| x x T x x x x x ");
 			System.out.println("4| - - x - - - - - ");
@@ -288,7 +288,7 @@ public class desafio {
 		case 34:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - x - - - - ");
+                        System.out.println("1| - - - x - - - - ");
 			System.out.println("2| - - - x - - - - ");
 			System.out.println("3| x x x T x x x x ");
 			System.out.println("4| - - - x - - - - ");
@@ -303,7 +303,7 @@ public class desafio {
 		case 35:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| x x x x T x x x ");
 			System.out.println("4| - - - - x - - - ");
@@ -317,7 +317,7 @@ public class desafio {
 		case 36:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| x x x x x T x x ");
 			System.out.println("4| - - - - - x - - ");
@@ -331,7 +331,7 @@ public class desafio {
 		case 37:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| x x x x x x T x ");
 			System.out.println("4| - - - - - - x - ");
@@ -345,7 +345,7 @@ public class desafio {
 		case 38:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| x x x x x x x T ");
 			System.out.println("4| - - - - - - - x ");
@@ -359,7 +359,7 @@ public class desafio {
 		case 41:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| T x x x x x x x ");
@@ -371,8 +371,8 @@ public class desafio {
 		break;
 		case 42:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
-			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+	  		System.out.println("  -----------------");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| x T x x x x x x ");
@@ -385,7 +385,7 @@ public class desafio {
 		case 43:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| x x T x x x x x ");
@@ -399,7 +399,7 @@ public class desafio {
 		case 44:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - x - - - - ");
+                        System.out.println("1| - - - x - - - - ");
 			System.out.println("2| - - - x - - - - ");
 			System.out.println("3| - - - x - - - - ");
 			System.out.println("4| x x x T x x x x ");
@@ -413,7 +413,7 @@ public class desafio {
 		case 45:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| x x x x T x x x ");
@@ -427,7 +427,7 @@ public class desafio {
 		case 46:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| x x x x x T x x ");
@@ -440,7 +440,7 @@ public class desafio {
 		case 47:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| x x x x x x T x ");
@@ -454,7 +454,7 @@ public class desafio {
 		case 48:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| x x x x x x x T ");
@@ -468,7 +468,7 @@ public class desafio {
 		case 51:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| x - - - - - - - ");
@@ -482,7 +482,7 @@ public class desafio {
 		case 52:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -496,7 +496,7 @@ public class desafio {
 		case 53:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -509,7 +509,7 @@ public class desafio {
 		case 54:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1 - - - x - - - - ");
+                        System.out.println("1 - - - x - - - - ");
 			System.out.println("2 - - - x - - - - ");
 			System.out.println("3 - - - x - - - - ");
 			System.out.println("4 - - - x - - - - ");
@@ -522,7 +522,7 @@ public class desafio {
 		case 55:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -535,7 +535,7 @@ public class desafio {
 		case 56:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -548,7 +548,7 @@ public class desafio {
 		case 57:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -561,7 +561,7 @@ public class desafio {
 		case 58:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -574,7 +574,7 @@ public class desafio {
 		case 61:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| x - - - - - - - ");
@@ -588,7 +588,7 @@ public class desafio {
 		case 62:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -601,7 +601,7 @@ public class desafio {
 		case 63:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -614,7 +614,7 @@ public class desafio {
 		case 64:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - x - - - - ");
+                        System.out.println("1| - - - x - - - - ");
 			System.out.println("2| - - - x - - - - ");
 			System.out.println("3| - - - x - - - - ");
 			System.out.println("4| - - - x - - - - ");
@@ -627,7 +627,7 @@ public class desafio {
 		case 65:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -640,7 +640,7 @@ public class desafio {
 		case 66:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -654,7 +654,7 @@ public class desafio {
 		case 67:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -667,7 +667,7 @@ public class desafio {
 		case 68:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -681,7 +681,7 @@ public class desafio {
 		case 71:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| x - - - - - - - ");
@@ -694,7 +694,7 @@ public class desafio {
 		case 72:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -707,7 +707,7 @@ public class desafio {
 		case 73:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -720,7 +720,7 @@ public class desafio {
 		case 74:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - x - - - - ");
+                        System.out.println("1| - - - x - - - - ");
 			System.out.println("2| - - - x - - - - ");
 			System.out.println("3| - - - x - - - - ");
 			System.out.println("4| - - - x - - - - ");
@@ -733,7 +733,7 @@ public class desafio {
 		case 75:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -746,7 +746,7 @@ public class desafio {
 		case 76:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -759,7 +759,7 @@ public class desafio {
 		case 77:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -772,7 +772,7 @@ public class desafio {
 		case 78:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -785,7 +785,7 @@ public class desafio {
 		case 81:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| x - - - - - - - ");
+                        System.out.println("1| x - - - - - - - ");
 			System.out.println("2| x - - - - - - - ");
 			System.out.println("3| x - - - - - - - ");
 			System.out.println("4| x - - - - - - - ");
@@ -798,7 +798,7 @@ public class desafio {
 		case 82:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - x - - - - - - ");
+                        System.out.println("1| - x - - - - - - ");
 			System.out.println("2| - x - - - - - - ");
 			System.out.println("3| - x - - - - - - ");
 			System.out.println("4| - x - - - - - - ");
@@ -811,7 +811,7 @@ public class desafio {
 		case 83:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - x - - - - - ");
+                        System.out.println("1| - - x - - - - - ");
 			System.out.println("2| - - x - - - - - ");
 			System.out.println("3| - - x - - - - - ");
 			System.out.println("4| - - x - - - - - ");
@@ -835,7 +835,7 @@ public class desafio {
 		case 85:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - x - - - ");
+                        System.out.println("1| - - - - x - - - ");
 			System.out.println("2| - - - - x - - - ");
 			System.out.println("3| - - - - x - - - ");
 			System.out.println("4| - - - - x - - - ");
@@ -848,7 +848,7 @@ public class desafio {
 		case 86:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - x - - ");
+                        System.out.println("1| - - - - - x - - ");
 			System.out.println("2| - - - - - x - - ");
 			System.out.println("3| - - - - - x - - ");
 			System.out.println("4| - - - - - x - - ");
@@ -861,7 +861,7 @@ public class desafio {
 		case 87:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - x - ");
+                        System.out.println("1| - - - - - - x - ");
 			System.out.println("2| - - - - - - x - ");
 			System.out.println("3| - - - - - - x - ");
 			System.out.println("4| - - - - - - x - ");
@@ -874,7 +874,7 @@ public class desafio {
 		case 88:	
 			System.out.println("  1 2 3 4 5 6 7 8 ");
 			System.out.println("  -----------------");
-            System.out.println("1| - - - - - - - x ");
+                        System.out.println("1| - - - - - - - x ");
 			System.out.println("2| - - - - - - - x ");
 			System.out.println("3| - - - - - - - x ");
 			System.out.println("4| - - - - - - - x ");
@@ -886,7 +886,7 @@ public class desafio {
 		break;
 		
 		default: 
-			System.out.println("Função indisponível! Por favor, tente novamente.");
+			System.out.println("PosiÃ§Ã£o indisponÃ­vel! Por favor, tente novamente.");
 		
 		
 		
